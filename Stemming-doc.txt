@@ -1,0 +1,9 @@
+Stemming a document
+You can write your own function that can stem documents. Here is one way to stem a document using Python filing:
+
+1. Take a document as the input.
+2. Read the document line by line
+3. Tokenize the line
+4. Stem the words
+5. Output the stemmed words (print on screen or write to a file)
+6. Repeat step 2 to step 5 until it is to the end of the document.

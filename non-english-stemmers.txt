@@ -1,0 +1,21 @@
+Python nltk provides not only two English stemmers: PorterStemmer and LancasterStemmer but also a lot of non-English stemmers as part of SnowballStemmers, ISRIStemmer, RSLPSStemmer. Python NLTK included SnowballStemmers as a language to create to create non-English stemmers. One can program one's own language stemmer using snowball. Currently, it supports the following languages:
+
+
+SnowballStemmers
+Danish
+Dutch
+English
+French
+German
+Hungarian
+Italian
+Norwegian
+Porter
+Portuguese
+Romanian
+Russian
+Spanish
+Swedish
+
+
+ISRIStemmer is an Arabic stemmer and RSLPStemmer is stemmer for the Portuguese Language.
